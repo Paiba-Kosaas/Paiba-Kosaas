@@ -28,6 +28,5 @@ In this place I will upload the work together with my colleagues from Kosaas
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
-https://img.shields.io/badge/Ubuntu--white?style=for-the-badge&logo=ubuntu&logoColor=orange&labelColor=white
 
 <br>
